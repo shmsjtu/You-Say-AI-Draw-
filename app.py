@@ -49,7 +49,7 @@ def init_session_state():
 
 def render_header():
     """Render page header."""
-    st.title("🥧 你说我画 - You Say I Draw")
+    st.title("🥧 你说我画 - You Say AI Draw")
     st.markdown("### 让 AI 把你的想象画成数学图形")
     st.markdown("---")
 
