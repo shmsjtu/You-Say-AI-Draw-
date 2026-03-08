@@ -1,4 +1,4 @@
-# 🥧 你说我画 - You Say I Draw
+# 🥧 你说我画 - You Say AI Draw!
 
 一个为 Pi Day 设计的交互式数学绘图游戏。用户输入自然语言提示词，系统通过 LLM 将其转化为数学方程代码，并使用 matplotlib 渲染出精美的数学图形。
 
